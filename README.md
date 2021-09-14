@@ -1,4 +1,4 @@
-## Olá!! Eu sou Rafaela Oliveira
+## Olá!! Eu sou Rafaela Oliveira.
 ### Bem Vindo ao meu perfil!!
 
 
