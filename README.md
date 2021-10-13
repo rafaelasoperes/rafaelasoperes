@@ -1,6 +1,9 @@
 ## Olá!! Eu sou Rafaela Oliveira.
 ### Bem Vindo ao meu perfil!!
 
+# Exploradora de Tecnologias
+
+
 
 - 🌱 Estou atualmente Aprendendo Programação.
 - 😄 Pronouns: (Ela/Dela)
