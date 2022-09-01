@@ -2,7 +2,7 @@
 
 ## Meu nome é Rafaela
 
-<div style="display: inline_block" align="center"   > 
+<div> 
   <img align="right" height="300em" src="https://user-images.githubusercontent.com/86390965/187468687-2504ded6-84b3-400f-abe3-7b455efa0f0b.png"/>     
 </div>
 <br>
