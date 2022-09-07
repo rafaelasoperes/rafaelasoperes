@@ -7,7 +7,7 @@
 </div>
 <br>
 
-##### Tenho 25 anos, sou do Rio de Janeiro, já fui manicure, hoje me dedico a estudar programação, voltada para o desenvolvimento Frontend.
+#### Tenho 25 anos, sou do Rio de Janeiro, já fui manicure, hoje me dedico a estudar programação, voltada para o desenvolvimento Frontend.
 
 - 🌱 Desenvolvedora Frontend!!
 - 😄 Pronouns: (Ela/Dela)
