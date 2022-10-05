@@ -41,13 +41,13 @@
 </div>
   
 ### Estou aprendendo.
-  
+ <div style="display: inline_block"> 
   <img align="center" alt="Rafa-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-typescript" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Rafa-nodejs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Rafa-expressjs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img align="center" alt="Rafa-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  
+  </div>
           
   
 ### Atualmente estudando em um projeto Oracle + Alura.
