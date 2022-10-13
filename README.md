@@ -53,15 +53,17 @@
 ### Atualmente estudando em um projeto Oracle + Alura.
 <img src="https://c.tenor.com/CJSGt0M6gfIAAAAj/%E5%83%8D%E3%81%8F-%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0.gif"/>
 
-### Badge Adquirida no curso da ONE (Oracle Next Education)
+### Badges Adquiridas no curso da ONE (Oracle Next Education)
   
 <div style="display: inline"> 
   <img height="200em" src="https://user-images.githubusercontent.com/86390965/187529135-565aec15-0990-446f-9e6e-cd3044170c95.png"/>
   <img height="200em" src="https://user-images.githubusercontent.com/86390965/192363670-3bdf9ad6-51e3-4f79-96c5-b45ed4927403.png"/>
 </div>
 
-### Badge Adquirida no Hacktobefest
-<img height="200em" src="https://user-images.githubusercontent.com/86390965/194137609-364b3e02-578e-47ac-8c8a-e6e23900a5e1.png"/>
-
+### Badges Adquiridas no Hacktobefest
+<div style="display: inline">
+  <img height="150px" src="https://user-images.githubusercontent.com/86390965/194137609-364b3e02-578e-47ac-8c8a-e6e23900a5e1.png"/>
+  <img height="150px" src="https://user-images.githubusercontent.com/86390965/195611869-7b3998a0-8387-4783-bd91-d7c21b2008cc.png"/>
+</div>
   
   
