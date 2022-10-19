@@ -56,8 +56,8 @@
 ### Badges Adquiridas no curso da ONE (Oracle Next Education)
   
 <div style="display: inline"> 
-  <img height="200em" src="https://user-images.githubusercontent.com/86390965/187529135-565aec15-0990-446f-9e6e-cd3044170c95.png"/>
-  <img height="200em" src="https://user-images.githubusercontent.com/86390965/192363670-3bdf9ad6-51e3-4f79-96c5-b45ed4927403.png"/>
+  <img height="150px" src="https://user-images.githubusercontent.com/86390965/187529135-565aec15-0990-446f-9e6e-cd3044170c95.png"/>
+  <img height="150px" src="https://user-images.githubusercontent.com/86390965/192363670-3bdf9ad6-51e3-4f79-96c5-b45ed4927403.png"/>
 </div>
 
 ### Badges Adquiridas no Hacktobefest
