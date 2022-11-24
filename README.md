@@ -53,7 +53,7 @@
 ### Atualmente estudando em um projeto Oracle + Alura.
 <img src="https://c.tenor.com/CJSGt0M6gfIAAAAj/%E5%83%8D%E3%81%8F-%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0.gif"/>
 
-### Badges Adquiridas no curso da ONE (Oracle Next Education)
+### Badges Adquiridas no curso da ONE (Oracle Next Education)!!!
   
 <div style="display: inline"> 
   <img height="150px" src="https://user-images.githubusercontent.com/86390965/187529135-565aec15-0990-446f-9e6e-cd3044170c95.png"/>
