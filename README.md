@@ -1,7 +1,7 @@
 # Olá Dev!!!
 
 
-## Meu nome é Rafaela
+## Meu nome é Rafaela, seja bem vindo ao meu perfil!!
 
 <div> 
   <img align="right" height="300em" src="https://user-images.githubusercontent.com/86390965/187468687-2504ded6-84b3-400f-abe3-7b455efa0f0b.png"/>     
