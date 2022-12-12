@@ -8,6 +8,7 @@
 </div>
 <br>
 
+#### Atualmente estudo na Universidade Veiga de Almeida(UVA), curso Análise e Desenvolvimento de Sistemas!
 #### Tenho 25 anos, sou do Rio de Janeiro, já fui manicure, hoje me dedico a estudar programação, voltada para o desenvolvimento Frontend.
 
 - 🌱 Desenvolvedora Frontend!!
