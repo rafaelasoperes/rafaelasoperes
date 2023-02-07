@@ -24,7 +24,7 @@
 </div>
 <br>
 
-## Exploradora de Tecnologias
+## Exploradora de Tecnologias!
 
 <div>
   <a href="https://github.com/rafaelasoperes">
