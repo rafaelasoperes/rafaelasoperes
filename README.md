@@ -9,6 +9,7 @@
 <br>
 
 #### Atualmente estudo na Universidade Veiga de Almeida(UVA), curso Análise e Desenvolvimento de Sistemas!
+#### Sou estagiaria Frontend na empresa Nasajon.
 #### Tenho 25 anos, sou do Rio de Janeiro, já fui manicure, hoje me dedico a estudar programação, voltada para o desenvolvimento Frontend.
 
 - 🌱 Desenvolvedora Frontend!!
@@ -32,7 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelasoperes&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
   
-### Linguagens que tenho conhecimento.
+#### Linguagens que tenho conhecimento.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -41,7 +42,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-### Estou aprendendo.
+#### Estou aprendendo.
  <div style="display: inline_block"> 
   <img align="center" alt="Rafa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-typescript" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -50,23 +51,23 @@
           
   </div>          
   
-### Atualmente estudando em um projeto Oracle + Alura.
+#### Atualmente estudando em um projeto Oracle + Alura.
 <img src="https://c.tenor.com/CJSGt0M6gfIAAAAj/%E5%83%8D%E3%81%8F-%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0.gif"/>
 
-### Badges Adquiridas no curso da ONE (Oracle Next Education)!!!
+#### Badges Adquiridas no curso da ONE (Oracle Next Education)!!!
   
 <div style="display: inline"> 
-  <img height="150px" src="https://user-images.githubusercontent.com/86390965/187529135-565aec15-0990-446f-9e6e-cd3044170c95.png"/>
-  <img height="150px" src="https://user-images.githubusercontent.com/86390965/192363670-3bdf9ad6-51e3-4f79-96c5-b45ed4927403.png"/>
+  <img height="100px" src="https://user-images.githubusercontent.com/86390965/187529135-565aec15-0990-446f-9e6e-cd3044170c95.png"/>
+  <img height="100px" src="https://user-images.githubusercontent.com/86390965/192363670-3bdf9ad6-51e3-4f79-96c5-b45ed4927403.png"/>
 </div>
 
-### Badges Adquiridas no Hacktobefest
+#### Badges Adquiridas no Hacktobefest
 <div style="display: inline">
-  <img height="150px" src="https://user-images.githubusercontent.com/86390965/194137609-364b3e02-578e-47ac-8c8a-e6e23900a5e1.png"/>
-  <img height="150px" src="https://user-images.githubusercontent.com/86390965/195611869-7b3998a0-8387-4783-bd91-d7c21b2008cc.png"/>
-  <img height="150px" src="https://user-images.githubusercontent.com/86390965/195922597-a92e9340-02fa-4787-9c5b-e39595d5bb71.png"/>
-  <img height="150px" src="https://user-images.githubusercontent.com/86390965/201353344-f2440d27-5413-4e68-99f0-431bbf8edc42.png"/>
-  <img height="150px" src="https://user-images.githubusercontent.com/86390965/203436045-a304f41a-9777-411a-9b15-08653a0bf26f.jpg"/>
+  <img height="100px" src="https://user-images.githubusercontent.com/86390965/194137609-364b3e02-578e-47ac-8c8a-e6e23900a5e1.png"/>
+  <img height="100px" src="https://user-images.githubusercontent.com/86390965/195611869-7b3998a0-8387-4783-bd91-d7c21b2008cc.png"/>
+  <img height="100px" src="https://user-images.githubusercontent.com/86390965/195922597-a92e9340-02fa-4787-9c5b-e39595d5bb71.png"/>
+  <img height="100px" src="https://user-images.githubusercontent.com/86390965/201353344-f2440d27-5413-4e68-99f0-431bbf8edc42.png"/>
+  <img height="100px" src="https://user-images.githubusercontent.com/86390965/203436045-a304f41a-9777-411a-9b15-08653a0bf26f.jpg"/>
 </div>
   
   
