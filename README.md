@@ -3,16 +3,11 @@
 
 ## Meu nome é Rafaela, seja bem vindo ao meu perfil!!
 
-<div> 
-  <img align="right" height="300em" src="https://user-images.githubusercontent.com/86390965/187468687-2504ded6-84b3-400f-abe3-7b455efa0f0b.png"/>     
-</div>
-<br>
 
-#### Atualmente estudo na Universidade Veiga de Almeida(UVA), curso Análise e Desenvolvimento de Sistemas!
-#### Sou estagiaria Frontend na empresa Nasajon.
-#### Tenho 26 anos, sou do Rio de Janeiro, já fui manicure, hoje me dedico a estudar programação, voltada para o desenvolvimento Frontend.
+#### Atualmente estudo na Universidade Estácio de Sá, curso Análise e Desenvolvimento de Sistemas!
+#### Sou estagiaria de Desenvolvimento (Programação) na empresa Nasajon.
 
-- 🌱 Desenvolvedora Frontend!!
+- 🌱 Desenvolvedora!!
 - 😄 Pronouns: (Ela/Dela)
 - 😎 Desistir não é uma opção!!
 
@@ -51,21 +46,6 @@
           
   </div>          
   
-#### Atualmente estudando e sou estágiaria Frontend.
+#### Atualmente estudando e sou estágiaria de Desenvolvimento.
 <img src="https://c.tenor.com/CJSGt0M6gfIAAAAj/%E5%83%8D%E3%81%8F-%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0.gif"/>
-
-#### Badges Adquiridas 
-  
-<div style="display: inline"> 
-  <img height="100px" src="https://user-images.githubusercontent.com/86390965/187529135-565aec15-0990-446f-9e6e-cd3044170c95.png"/>
-  <img height="100px" src="https://user-images.githubusercontent.com/86390965/192363670-3bdf9ad6-51e3-4f79-96c5-b45ed4927403.png"/>
-</div>
-<div style="display: inline">
-  <img height="100px" src="https://user-images.githubusercontent.com/86390965/194137609-364b3e02-578e-47ac-8c8a-e6e23900a5e1.png"/>
-  <img height="100px" src="https://user-images.githubusercontent.com/86390965/195611869-7b3998a0-8387-4783-bd91-d7c21b2008cc.png"/>
-  <img height="100px" src="https://user-images.githubusercontent.com/86390965/195922597-a92e9340-02fa-4787-9c5b-e39595d5bb71.png"/>
-  <img height="100px" src="https://user-images.githubusercontent.com/86390965/201353344-f2440d27-5413-4e68-99f0-431bbf8edc42.png"/>
-  <img height="100px" src="https://user-images.githubusercontent.com/86390965/203436045-a304f41a-9777-411a-9b15-08653a0bf26f.jpg"/>
-</div>
-  
   
