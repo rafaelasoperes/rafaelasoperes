@@ -3,22 +3,9 @@
 
 ## Meu nome é Rafaela, seja bem vindo ao meu perfil!!
 
-
-#### Atualmente estudo na Universidade Estácio de Sá, curso Análise e Desenvolvimento de Sistemas!
-#### Sou estagiaria de Desenvolvimento (Programação) na empresa Nasajon.
-
 - 🌱 Desenvolvedora!!
 - 😄 Pronouns: (Ela/Dela)
 - 😎 Desistir não é uma opção!!
-
-<br>
-
-<div>
-  <a href="https://www.linkedin.com/in/rafaelasoperes/" target="_black"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494498.png" width="60px" target="_black"/></a>Linkedin
-  <a href = "mailto:rafaelasoperes@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/720/720277.png" width="60px" target="_black"/></a> Gmail
-  <a href="https://www.instagram.com/irafaoliver/" target="_black"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="60px" target="_black"/></a> Instagram
-</div>
-<br>
 
 ## Exploradora de Tecnologias!
 
