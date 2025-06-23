@@ -1,11 +1,7 @@
-# Olá Dev!!!
+# Hey Dev!!!
 
 
 ## Meu nome é Rafaela, seja bem vindo ao meu perfil!!
-
-- 🌱 Desenvolvedora!!
-- 😄 Pronouns: (Ela/Dela)
-- 😎 Desistir não é uma opção!!
 
 ## Exploradora de Tecnologias!
 
@@ -24,6 +20,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-#### Atualmente estudando e sou estágiaria de Desenvolvimento.
+#### Atualmente estudando e sou Desenvolvedora Junior.
 <img src="https://c.tenor.com/CJSGt0M6gfIAAAAj/%E5%83%8D%E3%81%8F-%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0.gif"/>
   
