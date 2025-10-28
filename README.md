@@ -1,7 +1,7 @@
 # Hey Dev!!!
 
 
-## Meu nome é Rafaela, seja bem vindo ao meu perfil!
+## Meu nome é Rafaela, seja bem vindo ao meu perfil!!
 
 ## Exploradora de Tecnologias!
 
