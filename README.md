@@ -3,7 +3,7 @@
 
 ## Meu nome é Rafaela, seja bem vindo ao meu perfil!!
 
-## Exploradora de Tecnologias!
+## Exploradora de Tecnologias!!!
 
 <div>
   <a href="https://github.com/rafaelasoperes">
