@@ -8,7 +8,7 @@
 ### 💡 Sobre mim
 
 Sou apaixonada por tecnologia e, desde 2021, venho construindo minha trajetória na área de TI com foco em desenvolvimento.  
-Comecei de forma autodidata, participando de bootcamps e explorando diversas tecnologias como **JavaScript, HTML, CSS, AngularJS, React, TypeScript, Node.js, Python**, além de ferramentas como **Git, GitHub e Figma**.
+Comecei de forma autodidata, participando de bootcamps e explorando diversas tecnologias como **JavaScript, HTML, CSS, AngularJS, TypeScript, Node.js, Python**, além de ferramentas como **Git, GitHub e Figma**.
 
 Em 2023, iniciei a graduação em **Análise e Desenvolvimento de Sistemas**, marcando também meu ingresso no mercado com meu primeiro estágio como **Desenvolvedora Frontend**.  
 Posteriormente, migrei para o **desenvolvimento Backend**, atuando com **Python, PostgreSQL, SQL e Docker**, contribuindo para soluções voltadas a sistemas **ERP**.
