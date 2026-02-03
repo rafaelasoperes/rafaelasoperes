@@ -20,7 +20,7 @@ Sou guiada por **curiosidade, resiliência e colaboração**, acreditando no pod
 ### 🧠 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,python,postgres,git,c,vim,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,python,postgres,git,c,vim,figma,docker" />
 </div>
 
 ---
