@@ -55,7 +55,7 @@ Minha experiência prática em tecnologia começou em 2023, com atuação em des
 
 <h3>📊 Estatísticas GitHub</h3>
 
-<p align="center">
+<p align="center" width="60%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelasoperes&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelasoperes&theme=tokyonight" />
 </p>
