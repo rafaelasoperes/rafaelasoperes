@@ -45,7 +45,7 @@ Minha experiência prática em tecnologia começou em 2023, com atuação em des
 💻 Aprofundando conhecimentos em <b>Python</b> e <b>Arquitetura de Sistemas</b>  
 🎯 Focada em boas práticas, código limpo e aprendizado contínuo
 
-<br><br>
+<br>
 
 <div align="center">
   <img alt="coding" height="150" src="https://c.tenor.com/CJSGt0M6gfIAAAAj/%E5%83%8D%E3%81%8F-%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0.gif"/>
@@ -56,12 +56,12 @@ Minha experiência prática em tecnologia começou em 2023, com atuação em des
 <h3>📊 Estatísticas GitHub</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelasoperes&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelasoperes&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelasoperes&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelasoperes&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelasoperes&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=rafaelasoperes&theme=tokyonight" />
 </p>
 
 <hr>
